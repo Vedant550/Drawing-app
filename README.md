@@ -5,4 +5,4 @@ An android app to draw and doodle on screen. The app also allows to draw and doo
 <img src="https://github.com/gtiwari912/Drawing-App/blob/master/screenshots/img_draw.png" width="275" height="460"> <img src="https://github.com/gtiwari912/Drawing-App/blob/master/screenshots/img_share.png" width="275" height="460">  
 
 
-The apk file of the app is present in "releases" folder, or you can also download it by [clicking here.](https://github.com/gtiwari912/Drawing-App/blob/master/releases/Drawing%20App.apk)
+
